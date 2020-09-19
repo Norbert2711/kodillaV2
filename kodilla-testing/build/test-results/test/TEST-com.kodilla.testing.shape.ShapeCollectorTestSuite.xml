@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing.shape.ShapeCollectorTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-09-19T13:12:33" hostname="LAPTOP-B9UVV4I7" time="0.003">
+  <properties/>
+  <testcase name="addShape" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.001"/>
+  <testcase name="removeShape" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.001"/>
+  <testcase name="getOneFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.0"/>
+  <testcase name="showAllFigures" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.0"/>
+  <system-out><![CDATA[This is beginning of tests.
+Preparing to execute test number.# 1
+Name: I'm a Circle. My field: 50.26548245743669
+Preparing to execute test number.# 2
+All shapes: [Circle r= 6.0, Triangle a= 3.7, h= 2.6]
+after remove this shapes left : []
+Preparing to execute test number.# 3
+Preparing to execute test number.# 4
+All figures in collection: Circle r= 6.0
+All figures in collection: Triangle a= 3.7, h= 2.6
+All figures in collection: Square a= 6.0
+[Circle r= 6.0, Triangle a= 3.7, h= 2.6, Square a= 6.0]
+[Circle r= 6.0, Triangle a= 3.7, h= 2.6, Square a= 6.0]
+All tests are finished.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

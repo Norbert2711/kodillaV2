@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.testing.forum.tdd.ForumTestSuite" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-09-19T13:12:33" hostname="LAPTOP-B9UVV4I7" time="0.012">
+  <properties/>
+  <testcase name="addComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.01"/>
+  <testcase name="addPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkIfExistComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkIfChosenPostInClassWasDeleted" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
+  <testcase name="checkIfChosenCommentInClassWasDeleted" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkIfExistPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkResultDeleteNotExistComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkResultDeleteNotExistPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <system-out><![CDATA[This is beginning of tests.
+Preparing to execute test number.# 1
+Preparing to execute test number.# 2
+Preparing to execute test number.# 3
+Preparing to execute test number.# 4
+Preparing to execute test number.# 5
+Preparing to execute test number.# 6
+Preparing to execute test number.# 7
+Preparing to execute test number.# 8
+All tests are finished.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
