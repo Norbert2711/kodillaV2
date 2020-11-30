@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.spring.intro.TestDrawer" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-17T11:28:10" hostname="LAPTOP-B9UVV4I7" time="0.004">
+<testsuite name="com.kodilla.spring.intro.TestDrawer" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:08" hostname="LAPTOP-B9UVV4I7" time="0.002">
   <properties/>
-  <testcase name="testDrawer" classname="com.kodilla.spring.intro.TestDrawer" time="0.004"/>
+  <testcase name="testDrawer" classname="com.kodilla.spring.intro.TestDrawer" time="0.002"/>
   <system-out><![CDATA[This is: 
 This is: 
 Circle

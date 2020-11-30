@@ -7,7 +7,7 @@ public class Triangle implements Shape{
 
     @Override
     public String getNameShape() {
-        return "Thins is a Triangle";
+        return "This is a Triangle";
     }
 
 }

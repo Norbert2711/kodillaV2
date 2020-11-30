@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.testing.shape.ShapeCollectorTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-09-19T13:12:33" hostname="LAPTOP-B9UVV4I7" time="0.003">
+<testsuite name="com.kodilla.testing.shape.ShapeCollectorTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:13" hostname="LAPTOP-B9UVV4I7" time="0.003">
   <properties/>
   <testcase name="addShape" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.001"/>
   <testcase name="removeShape" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.001"/>
   <testcase name="getOneFigure" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.0"/>
-  <testcase name="showAllFigures" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.0"/>
+  <testcase name="showAllFigures" classname="com.kodilla.testing.shape.ShapeCollectorTestSuite" time="0.001"/>
   <system-out><![CDATA[This is beginning of tests.
 Preparing to execute test number.# 1
 Name: I'm a Circle. My field: 50.26548245743669

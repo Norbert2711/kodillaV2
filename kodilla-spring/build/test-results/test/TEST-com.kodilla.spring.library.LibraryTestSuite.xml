@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.spring.library.LibraryTestSuite" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:06" hostname="LAPTOP-B9UVV4I7" time="0.335">
+  <properties/>
+  <testcase name="testSaveToDb" classname="com.kodilla.spring.library.LibraryTestSuite" time="0.12"/>
+  <testcase name="testLoadFromDb" classname="com.kodilla.spring.library.LibraryTestSuite" time="0.103"/>
+  <testcase name="testContext" classname="com.kodilla.spring.library.LibraryTestSuite" time="0.01"/>
+  <testcase name="testContextInAllPacketComKodillaSpring" classname="com.kodilla.spring.library.LibraryTestSuite" time="0.102"/>
+  <system-out><![CDATA[2020-11-26 19:13:06.722  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@fa51b4: startup date [Thu Nov 26 19:13:06 CET 2020]; root of context hierarchy
+2020-11-26 19:13:06.796  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'library' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.Library]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\Library.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=library; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:06.796  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'libraryDbController' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.LibraryDbController]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\LibraryDbController.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=libraryDbController; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:06.823  INFO 7968 --- [    Test worker] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+Saving data to the database.
+2020-11-26 19:13:06.836  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@1b0c8bfb: startup date [Thu Nov 26 19:13:06 CET 2020]; root of context hierarchy
+2020-11-26 19:13:06.897  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'library' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.Library]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\Library.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=library; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:06.897  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'libraryDbController' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.LibraryDbController]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\LibraryDbController.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=libraryDbController; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:06.926  INFO 7968 --- [    Test worker] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+Loading data from the database
+2020-11-26 19:13:06.929  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@64b1f313: startup date [Thu Nov 26 19:13:06 CET 2020]; root of context hierarchy
+===== Beans list: ==== >>
+org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+org.springframework.context.annotation.internalRequiredAnnotationProcessor
+org.springframework.context.annotation.internalCommonAnnotationProcessor
+org.springframework.context.event.internalEventListenerProcessor
+org.springframework.context.event.internalEventListenerFactory
+libraryConfig
+library
+libraryDbController
+<< ===== Beans list ====
+2020-11-26 19:13:06.953  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@530a52b0: startup date [Thu Nov 26 19:13:06 CET 2020]; root of context hierarchy
+2020-11-26 19:13:07.009  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'library' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.Library]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\Library.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=library; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:07.009  INFO 7968 --- [    Test worker] o.s.b.f.s.DefaultListableBeanFactory     : Overriding bean definition for bean 'libraryDbController' with a different definition: replacing [Generic bean: class [com.kodilla.spring.library.LibraryDbController]; scope=singleton; abstract=false; lazyInit=false; autowireMode=0; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=null; factoryMethodName=null; initMethodName=null; destroyMethodName=null; defined in file [C:\Users\norbe\Desktop\kodilla-coursev2\kodilla-spring\build\classes\java\main\com\kodilla\spring\library\LibraryDbController.class]] with [Root bean: class [null]; scope=; abstract=false; lazyInit=false; autowireMode=3; dependencyCheck=0; autowireCandidate=true; primary=false; factoryBeanName=libraryConfig; factoryMethodName=libraryDbController; initMethodName=null; destroyMethodName=(inferred); defined in com.kodilla.spring.library.LibraryConfig]
+2020-11-26 19:13:07.037  INFO 7968 --- [    Test worker] o.s.j.e.a.AnnotationMBeanExporter        : Registering beans for JMX exposure on startup
+===== Beans list: ==== >>
+org.springframework.context.annotation.internalConfigurationAnnotationProcessor
+org.springframework.context.annotation.internalAutowiredAnnotationProcessor
+org.springframework.context.annotation.internalRequiredAnnotationProcessor
+org.springframework.context.annotation.internalCommonAnnotationProcessor
+org.springframework.context.event.internalEventListenerProcessor
+org.springframework.context.event.internalEventListenerFactory
+calculator
+display
+forumUser
+library
+libraryConfig
+libraryDbController
+boardConfig
+readerConfig
+circle
+shapesFactory
+triangle
+springRunner
+getBoard
+to Do List
+in Progress List
+done List
+getReader
+book1
+book2
+createSquare
+chosenShape
+org.springframework.boot.autoconfigure.AutoConfigurationPackages
+org.springframework.boot.autoconfigure.context.PropertyPlaceholderAutoConfiguration
+org.springframework.boot.autoconfigure.condition.BeanTypeRegistry
+propertySourcesPlaceholderConfigurer
+org.springframework.boot.autoconfigure.jmx.JmxAutoConfiguration
+mbeanExporter
+objectNamingStrategy
+mbeanServer
+org.springframework.boot.autoconfigure.context.ConfigurationPropertiesAutoConfiguration
+org.springframework.boot.context.properties.ConfigurationPropertiesBindingPostProcessor
+org.springframework.boot.context.properties.ConfigurationBeanFactoryMetadata
+org.springframework.boot.autoconfigure.info.ProjectInfoAutoConfiguration
+spring.info-org.springframework.boot.autoconfigure.info.ProjectInfoProperties
+org.springframework.boot.autoconfigure.security.reactive.ReactiveSecurityAutoConfiguration
+spring.security-org.springframework.boot.autoconfigure.security.SecurityProperties
+org.springframework.boot.autoconfigure.web.embedded.EmbeddedWebServerFactoryCustomizerAutoConfiguration
+server-org.springframework.boot.autoconfigure.web.ServerProperties
+<< ===== Beans list ====
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

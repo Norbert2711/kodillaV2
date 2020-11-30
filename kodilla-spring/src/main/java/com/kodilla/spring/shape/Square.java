@@ -4,7 +4,7 @@ public class Square implements Shape {
 
     @Override
     public String getNameShape() {
-        return "This is Square";
+        return "This is a Square";
     }
 
 }

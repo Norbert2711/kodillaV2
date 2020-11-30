@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.testing.library.BookDirectoryTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-09-19T13:12:33" hostname="LAPTOP-B9UVV4I7" time="0.024">
+<testsuite name="com.kodilla.testing.library.BookDirectoryTestSuite" tests="6" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:13" hostname="LAPTOP-B9UVV4I7" time="0.025">
   <properties/>
-  <testcase name="testListBooksWithConditionFragmentShorterThan3" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.02"/>
+  <testcase name="testListBooksWithConditionFragmentShorterThan3" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.022"/>
   <testcase name="userHave5Books" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.002"/>
-  <testcase name="testListBooksWithConditionMoreThan20" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.001"/>
-  <testcase name="testListBooksWithConditionsReturnList" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.0"/>
+  <testcase name="testListBooksWithConditionMoreThan20" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.0"/>
+  <testcase name="testListBooksWithConditionsReturnList" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.001"/>
   <testcase name="userHave1Book" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.0"/>
   <testcase name="userDontHaveAnyBooks" classname="com.kodilla.testing.library.BookDirectoryTestSuite" time="0.0"/>
   <system-out><![CDATA[5
