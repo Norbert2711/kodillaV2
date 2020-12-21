@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.testing.forum.statistics.ForumStatisticsTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:12" hostname="LAPTOP-B9UVV4I7" time="0.309">
+<testsuite name="com.kodilla.testing.forum.statistics.ForumStatisticsTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-12-17T17:57:58" hostname="LAPTOP-B9UVV4I7" time="0.296">
   <properties/>
-  <testcase name="testWhenPostsAreLessThanComments" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.306"/>
-  <testcase name="forumTestWhenCommentsAreZero" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.0"/>
+  <testcase name="testWhenPostsAreLessThanComments" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.293"/>
+  <testcase name="forumTestWhenCommentsAreZero" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.001"/>
   <testcase name="forumTestWhenUsersAre100" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.0"/>
   <testcase name="showAllStats" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.001"/>
   <testcase name="forumTestWhenUsersAreZero" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.0"/>
-  <testcase name="forumTestWhenPostsAreZero" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.001"/>
-  <testcase name="forumTestWhenPostsAre100" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.0"/>
+  <testcase name="forumTestWhenPostsAreZero" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.0"/>
+  <testcase name="forumTestWhenPostsAre100" classname="com.kodilla.testing.forum.statistics.ForumStatisticsTests" time="0.001"/>
   <system-out><![CDATA[0.0
 0.0
 ** ALL STATISTICS ** 

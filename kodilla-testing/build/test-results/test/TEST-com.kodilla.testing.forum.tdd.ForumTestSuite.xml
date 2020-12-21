@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.testing.forum.tdd.ForumTestSuite" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:13" hostname="LAPTOP-B9UVV4I7" time="0.004">
+<testsuite name="com.kodilla.testing.forum.tdd.ForumTestSuite" tests="8" skipped="0" failures="0" errors="0" timestamp="2020-12-17T17:57:58" hostname="LAPTOP-B9UVV4I7" time="0.004">
   <properties/>
-  <testcase name="addComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.002"/>
-  <testcase name="addPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="addComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
+  <testcase name="addPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
   <testcase name="checkIfExistComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
   <testcase name="checkIfChosenPostInClassWasDeleted" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
-  <testcase name="checkIfChosenCommentInClassWasDeleted" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
-  <testcase name="checkIfExistPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
-  <testcase name="checkResultDeleteNotExistComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkIfChosenCommentInClassWasDeleted" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
+  <testcase name="checkIfExistPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
+  <testcase name="checkResultDeleteNotExistComment" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.001"/>
   <testcase name="checkResultDeleteNotExistPost" classname="com.kodilla.testing.forum.tdd.ForumTestSuite" time="0.0"/>
   <system-out><![CDATA[This is beginning of tests.
 Preparing to execute test number.# 1

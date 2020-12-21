@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.kodilla.patterns.strategy.StrategyUserTestSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-17T17:57:50" hostname="LAPTOP-B9UVV4I7" time="0.002">
+  <properties/>
+  <testcase name="testDefaultSharingStrategies" classname="com.kodilla.patterns.strategy.StrategyUserTestSuite" time="0.001"/>
+  <testcase name="individualChoseSocialMedia" classname="com.kodilla.patterns.strategy.StrategyUserTestSuite" time="0.001"/>
+  <system-out><![CDATA[Adam like: Twitter
+Anna like: Facebook
+Adam like: Twitter
+Now Adam like: Snapchat
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

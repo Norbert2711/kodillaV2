@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.stream.array.ArrayOperationsTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:09" hostname="LAPTOP-B9UVV4I7" time="0.014">
+<testsuite name="com.kodilla.stream.array.ArrayOperationsTestSuite" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-12-17T17:57:57" hostname="LAPTOP-B9UVV4I7" time="0.015">
   <properties/>
-  <testcase name="arrayAverageTests" classname="com.kodilla.stream.array.ArrayOperationsTestSuite" time="0.014"/>
+  <testcase name="arrayAverageTests" classname="com.kodilla.stream.array.ArrayOperationsTestSuite" time="0.015"/>
   <system-out><![CDATA[8
 4
 1

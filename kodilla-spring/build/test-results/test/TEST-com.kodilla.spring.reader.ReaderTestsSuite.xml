@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.kodilla.spring.reader.ReaderTestsSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-11-26T18:13:07" hostname="LAPTOP-B9UVV4I7" time="0.019">
+<testsuite name="com.kodilla.spring.reader.ReaderTestsSuite" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-12-17T17:57:54" hostname="LAPTOP-B9UVV4I7" time="0.021">
   <properties/>
-  <testcase name="testRead" classname="com.kodilla.spring.reader.ReaderTestsSuite" time="0.009"/>
+  <testcase name="testRead" classname="com.kodilla.spring.reader.ReaderTestsSuite" time="0.011"/>
   <testcase name="testConditional" classname="com.kodilla.spring.reader.ReaderTestsSuite" time="0.01"/>
-  <system-out><![CDATA[2020-11-26 19:13:07.070  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@2f96b321: startup date [Thu Nov 26 19:13:07 CET 2020]; root of context hierarchy
+  <system-out><![CDATA[2020-12-17 18:57:54.647  INFO 10516 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@75d68703: startup date [Thu Dec 17 18:57:54 CET 2020]; root of context hierarchy
 Reading: The book number one
-2020-11-26 19:13:07.079  INFO 7968 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@58da6c18: startup date [Thu Nov 26 19:13:07 CET 2020]; root of context hierarchy
-Bean book2 was found in the container: true
+2020-12-17 18:57:54.658  INFO 10516 --- [    Test worker] s.c.a.AnnotationConfigApplicationContext : Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@54a8df07: startup date [Thu Dec 17 18:57:54 CET 2020]; root of context hierarchy
+Bean book2 was found in the container: false
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

@@ -1,7 +1,5 @@
 package com.kodilla.testing.forum;
 
-import com.sun.org.apache.bcel.internal.generic.FCMPG;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 
